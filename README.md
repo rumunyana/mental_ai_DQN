@@ -1,1 +1,1 @@
-# mental_robo_DQN
+# mental_ai_DQN
