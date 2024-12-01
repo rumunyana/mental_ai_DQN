@@ -10,7 +10,7 @@ import random
 class WellnessJourneyEnv(gym.Env):
     
     """
-    A mental health journey simulation environment where a patient navigates through 
+    A mental health journey simulation environment where a ai agent acting as a mental health patient navigates through 
     various mental health challenges to reach a wellness goal. The environment 
     represents a therapeutic landscape where:
     - The patient starts from an initial position
