@@ -1,0 +1,6 @@
+python 3.8+
+gymnasium
+stable-baselines3
+pygame
+numpy
+tensorflow
