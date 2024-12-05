@@ -77,14 +77,6 @@ python play.py
 **Action Space:**
 - Four directional movements (up, down, left, right)
 
-**Reward Structure:**
-- Progress toward goal: +1
-- Reaching final goal: +50
-- Encountering challenges: -2 to -5
-- Out of bounds: -1
-- Step penalty: -0.1
-
-
 ## Visual Elements
 - Blue Circle: Patient
 - Red Squares: Mental Health Challenges
@@ -100,3 +92,4 @@ This project demonstrates the application of reinforcement learning in mental he
 
 ## Link to video
 https://youtu.be/bLv3e5F410E
+link to the folder: https://drive.google.com/drive/folders/1ohtISuLEDHcepP-gw3EYopvw7vSlf9rt?usp=sharing
